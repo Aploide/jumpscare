@@ -5,5 +5,4 @@ function love() {
     gif.setAttribute("style", "opacity: 100%;")
     audio.play();
     audio.loop=true;
-
 }
