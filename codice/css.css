@@ -56,7 +56,8 @@ a:hover {
     display: block;
     transform: scale(260%);
     margin-top: 7vh;
-    margin-bottom: 7vh;}
+    margin-bottom: 7vh;
+    z-index: 10;}
 
 
 .button {
